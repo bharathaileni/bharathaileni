@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA using Python.<br>🌱 I’m currently learning .<br>👯 I’m looking to collaborate on MERN stack.<br>🤔 I’m looking for help with Machine learning.<br>💬 Ask me about DSA<br>📫 How to reach me: ailenibharathrao123@gmail.com
+🔭 I’m currently working on DSA using Python.<br>🌱 I’m currently learning MERN stack .<br>👯 I’m looking to collaborate on MERN stack.<br>🤔 I’m looking for help with Machine learning.<br>💬 Ask me about DSA<br>📫 How to reach me: ailenibharathrao123@gmail.com
 
 
 ## 🌐 Socials:
